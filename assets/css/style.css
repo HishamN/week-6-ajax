@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+
+}
+
+#background {
+	background-repeat: no-repeat;
+	background-size: 70%;
+	max-width: 700px;
+}
+#buttonsView{
+    position: auto;
+    padding: 40px;
+    padding-top: 40px;
+    border-color: black;
+    border: 5px;
+    float:right;
+    background: peachpuff; 
+    
+   
+  }
+#cartoon-form {
+	float: right;
+}
+
+h3 {
+	color: navy;
+	text-align: center;
+
+}
+
+input {
+	align-content: center;
+}
+
+#cartoons-view {
+	float: left;
+
+}
+
+
