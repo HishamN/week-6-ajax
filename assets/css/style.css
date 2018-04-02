@@ -11,17 +11,10 @@ body {
 	background-size: 70%;
 	max-width: 700px;
 }
-#buttonsView{
-    position: auto;
-    padding: 40px;
-    padding-top: 40px;
-    border-color: black;
-    border: 5px;
-    float:right;
-    background: peachpuff; 
+
     
    
-  }
+  
 #cartoon-form {
 	float: right;
 }
